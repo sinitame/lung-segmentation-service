@@ -6,6 +6,7 @@
      "lung"
    ],
    "shortdesc": "Lung Segmentation example",
+   "url":"test.fr",
    "longdesc": "Given a LIDC chest CT-Scan, return a mask of the lung of the patient",
    "tags": [
      {
