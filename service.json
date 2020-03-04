@@ -1,0 +1,18 @@
+{
+   "name": "LungSegmentationExample",
+   "version": "0.1.0",
+   "keywords": [
+     "segmentation",
+     "lung"
+   ],
+   "shortdesc": "Lung Segmentation example",
+   "longdesc": "Given a LIDC chest CT-Scan, return a mask of the lung of the patient",
+   "tags": [
+     {
+       "name": "Source",
+       "type": "MainImage",
+       "hint": "The anatomical image from which you want to warp the segmentation",
+       "required": true
+     }
+   ]
+ }
